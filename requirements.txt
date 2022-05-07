@@ -1,0 +1,4 @@
+# Required pip install
+
+python-telegram-bot
+pyttsx3
